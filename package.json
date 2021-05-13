@@ -45,6 +45,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@types/react-vis": "^1.11.6",
     "@typescript-eslint/eslint-plugin": "^2.7.0",
     "@typescript-eslint/parser": "^2.7.0",
     "concurrently": "^5.0.0",
